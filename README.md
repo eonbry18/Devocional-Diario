@@ -12,7 +12,7 @@ $pass = 'senha do seu banco';            ------------->              USE A SENHA
 
 
 
-5- FAÇA CONFORME SEU GOSTO, MODIFIQUE, CONPARTILHE PRA HONDA DE JESUS CRISTO!
+5- FAÇA CONFORME SEU GOSTO, MODIFIQUE, COMPARTILHE PRA HONDA DE JESUS CRISTO!
 6- DEVELOPER: EMANUEL NASCIMENTO 
 =================================================================================================================
 
