@@ -5,10 +5,10 @@
 
 
 
-$host = 'localhost';                     -------------->              MANTENHA O localhost AQUI
-$dbname = 'nome do seu banco';        ------------->              USE O DBNAME DO SEU BANCO DE DADOS
-$user = 'seu usuario do banco';          ------------->              USE O USUARIO DO SEU BANCO DE DADOS
-$pass = 'sua senha';                   ------------->              USE A SENHA DO SEU BANCO DE DADOS
+$host = 'localhost';             MANTENHA O localhost AQUI
+$dbname = 'nome do seu banco';   USE O DBNAME DO SEU BANCO DE DADOS
+$user = 'seu usuario do banco';  USE O USUARIO DO SEU BANCO DE DADOS
+$pass = 'sua senha';             USE A SENHA DO SEU BANCO DE DADOS
 
 
 
